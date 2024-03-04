@@ -1,0 +1,18 @@
+body{
+    background-image:linear-gradient(silver,black);
+}
+h3{
+    color:snow;
+   position: absolute;
+    top:40%;
+    left:32%;
+    
+}
+.ak{
+    background-color: black;
+    color:snow;
+   position:absolute;
+   top:80%;
+   left:42%
+
+}
